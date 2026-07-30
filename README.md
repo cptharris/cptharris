@@ -1,28 +1,17 @@
 # Hey there 👋, I'm Captain Harris
 
-### student and developing programmer [@UCSB](https://github.com/ucsb)
+### computer engineering fourth year [@UCSB](https://github.com/ucsb)
 
-<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=cptharris&show_icons=true&theme=discord_old_blurple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+#### interested in
 
-[![profile trophies](https://github-profile-trophy.vercel.app/?username=cptharris&theme=dracula&margin-w=10&margin-h=10&no-frame=true&title=Joined2020,Commits,Experience,Repository)](https://github.com/ryo-ma/github-profile-trophy)
+- IoT
+- embedded systems
+- FPGA testing
+- smart devices, especially in health
+- agentic AI
+- edge computing
 
-- 🌱 I am currently learning **Swift** and **C++**
-
-- ⚒️ I am currently working on [my contact lens tracking app](https://github.com/cptharris/lens)
-
-  - 👀 Specifically, I am learning iOS app development with [Apple's App Dev Training](https://developer.apple.com/tutorials/app-dev-training)
-
-- 👨‍💻 All of my projects are available at [github.com/cptharris](https://github.com/cptharris)
-
-- 📝 I occasionally write blog posts on [cptharris.github.io](https://cptharris.github.io)
-
-- 🔦 I am looking for a good code editor (after Atom's sunset 😢)
-
-    - [VSCodium](https://vscodium.com) / [VSCode](https://code.visualstudio.com) / [Zed](https://zed.dev) / [Pulsar](https://pulsar-edit.dev)
-
-<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>](https://www.linkedin.com/in/caleb-harris-sd/) -->
-
-### Languages
+#### Languages
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>]()
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>]()
@@ -40,7 +29,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>]()
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>]()
 
-<!-- [![readme stats](https://github-readme-stats.vercel.app/api/top-langs?username=cptharris&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+[![readme stats](https://github-readme-stats.vercel.app/api/top-langs?username=cptharris&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools
 
@@ -76,7 +65,3 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>]()
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="40" height="40"/>]()
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows11" width="40" height="40"/>]()
-
-### Repositories:
-
-[![website card](https://github-readme-stats.vercel.app/api/pin/?username=cptharris&repo=cptharris.github.io&theme=discord_old_blurple&hide_border=true)](https://github.com/cptharris/cptharris.github.io)  [![featured repo card](https://github-readme-stats.vercel.app/api/pin/?username=cptharris&repo=lens&theme=discord_old_blurple&hide_border=true)](https://github.com/cptharris/lens)
